@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="KEOD3e" name="SynthPlusPlus" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              pluginCharacteristicsValue="pluginIsSynth">
   <MAINGROUP id="rvHAJx" name="SynthPlusPlus">
     <GROUP id="{FA33A33D-4239-87BB-5FF3-FD9D30083003}" name="Source">
       <FILE id="mAkw2t" name="PluginProcessor.cpp" compile="1" resource="0"
